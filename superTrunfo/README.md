@@ -2,13 +2,7 @@
 ![status de desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## Indice
-* [Aula 01](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/calculadoraMedia)
-* [Aula 02](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/conversorMoedas)
-* [Aula 03](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/mentalista)
-* [Aula 04](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/aluraFlix)
-* [Aula 05](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/yourTop)
-* [Aula 06](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/tabelaClassificacao)
-* [Aula 07-08](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/superTrunfo)
+* [main](https://github.com/LevoratoJoao/Imersao-Dev)
 
 # Aula 07 e 08
 Na sétima aula da Imersão Dev, criamos um jogo de cartas Trunfo e na oitava aula evoluimos ainda mais ele focando em exibir as cartas na tela!
