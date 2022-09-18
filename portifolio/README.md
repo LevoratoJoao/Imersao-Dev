@@ -1,0 +1,28 @@
+# Imersao Dev
+![status de desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+## Indice
+* [Aula 01](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/calculadoraMedia)
+* [Aula 02](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/conversorMoedas)
+* [Aula 03](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/mentalista)
+* [Aula 04](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/aluraFlix)
+* [Aula 05](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/yourTop)
+* [Aula 06](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/tabelaClassificacao)
+* [Aula 07-08](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/superTrunfo)
+* [Aula 09](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/portifolio)
+
+## Aula 09
+Nesta nona aula da Imersão Dev, descobrimos como usar o Figma para um layout em código HTML e CSS para o nosso portfólio!
+##  Conteúdo detalhado desta aula:
+* Aprendemos a mexer no Figma e transformar o design em código.
+* Estruturamos o nosso portfólio com HTML, aprendendo todas as tags necessárias pra isso.
+* Estilizamos o nosso portfólio com CSS, conhecendo os seletores, propriedades e valores necessários para isso.
+
+## Desafios
+1. [ ] 1. Adicionar suas redes sociais de forma que quem clique consiga abrí-las
+2. [ ] 2. Terminar todo o design que está no figma (disponível abaixo)
+
+## Links
+* [Design no Figma](https://www.figma.com/file/1flmz2iauuNs8JsY6eaBHI/Imers%C3%A3o-Dev---Aula-9?node-id=0%3A1)
+
+
