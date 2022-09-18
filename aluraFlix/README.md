@@ -8,6 +8,7 @@
 * [Aula 04](https://github.com/LevoratoJoao/Imersao-Dev/tree/main/aluraFlix)
 
 # Aula 04
+## Conteúdo detalhado desta aula:
 * Criar uma primeira array de filmes usando a sintaxe [];
 * Utilizar o método filmes.push("Nome Do Filme") para inserir um novo elemento na lista (ou seja, um novo filme na array);
 * Descobrir a quantidade de elementos em uma array com o método array.length;
